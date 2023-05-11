@@ -13,4 +13,3 @@ pipeline {
                 sh 'java Hello'
             }
         }
-    }
